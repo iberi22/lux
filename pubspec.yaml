@@ -7,10 +7,10 @@ environment:
   sdk: ^3.8.0
 
 dependencies:
-  dbus: ^0.8.0
+  dbus: ^0.8.1
   flutter:
     sdk: flutter
-  window_manager: ^0.5.2
+  window_manager: ^0.7.0
 
 dev_dependencies:
   flutter_test:
